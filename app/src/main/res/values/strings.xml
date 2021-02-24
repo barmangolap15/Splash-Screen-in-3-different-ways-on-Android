@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SplashAnimation</string>
+    <string name="pexels">Pexels</string>
+    <string name="log_in">LOG IN</string>
+    <string name="login_to_get_amazing_images">Login to get amazing images</string>
+    <string name="welcome">Welcome to the App</string>
+    <string name="sign_in_to_continue">Sign-In to Continue</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="name">app name</string>
+</resources>
